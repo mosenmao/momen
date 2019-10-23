@@ -1,7 +1,7 @@
 {
 	"services": [
 		{
-			"service_id": "235",
+			"service_id": "2352",
 			"service_name": "Cocos Analytics",
 			"service_icon": "https://account.cocos.com/client/3f8f31ccf66995e183044f167c092395.png",
 			"service_desc": "提供最核心最基本的数据、标准化界面功能简洁易用、数据准确性最好",
